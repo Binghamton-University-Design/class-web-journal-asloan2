@@ -7,6 +7,7 @@
   --light-grey: #A9AAAA;
   --lighter-grey: #C6C7C6;
   --lightest-grey: #E2E3E3;
+  --blue: #0F57FF;
 }
 
 html {
@@ -45,7 +46,7 @@ body {
 }
 
 #masthead {
-    background-color: #0F57FF;
+    background-color: var(--blue);
     padding: 1em;
     text-align: right;
 }
@@ -185,7 +186,7 @@ a:visited {
 }
 
 .overlay-odd:before {
-  background-color: var(--body-color);
+  background-color: var(--blue);
   content: "";
   position: absolute;
   width: 1em;
@@ -196,7 +197,7 @@ a:visited {
 }
 
 .overlay-even:before {
-  background-color: var(--body-color);
+  background-color: var(--blue);
   content: "";
   position: absolute;
   width: 1em;
@@ -220,7 +221,7 @@ a:visited {
 
 .overlay {
   padding: 2em;
-  background-color: var(--body-color);
+  background-color: var(--blue);
   color: var(--background-color);
 }
 
