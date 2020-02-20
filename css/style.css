@@ -45,7 +45,7 @@ body {
 }
 
 #masthead {
-    background-color: var(--body-color);
+    background-color: #0F57FF;
     padding: 1em;
     text-align: right;
 }
@@ -88,7 +88,7 @@ h4 {
 
 #masthead h4 a {
     color: var(--link-color);
-    background-color: var(--body-color);
+    background-color: #0F57FF;
 }
 
 #masthead h4 a:hover {
