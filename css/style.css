@@ -123,9 +123,11 @@ a:visited {
 }
 
 .r-image {
+  <img style="border:5px solid black">
     display: block;
     width: 100%;
     height: auto;
+
 }
 
 .post {
