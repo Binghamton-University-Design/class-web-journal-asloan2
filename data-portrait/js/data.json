@@ -1,83 +1,109 @@
 {
 "key" :
   { 
-    "Do you  eat breakfast?": {
+     "Do you only use your phone for BASIC functions? (This includes calling, texting, email, taking pictures and using a map)": {
       "x" : 0,
       "y" : 0,
-      "always" : "1_always.png",
-      "often" : "1_often.png",
-      "sometimes" : "1_sometimes.png",
-      "hardly ever" : "1_hardly-ever.png",
-      "never" : "1_never.png",
+      "No, I also have apps and social media" : "question-1-no-.png",
+      "Yes" : "all-questions-no.png",
       "is_text" : false
     },
-    "What is your first beverage of the day?": {
+    "Do you use your phone right before you sleep? If yes, does it affect how long it takes for you to fall asleep?": {
       "x" : 30,
       "y" : 60,
-      "coffee" : "02_coffee.png",
-      "tea" : "02_tea.png",
-      "water" : "02_water.png",
-      "juice" : "02_juice.png",
+      "Yes and it affects how long it takes for me to fall asleep" : "sleep-affected.png",
+      "Yes and it does not affect how long it takes for me to fall asleep" : "sleep-not-affected",
       "is_text" : false
     },
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": {
+    "Do you feel anxious without your phone?": {
       "x" : 263,
       "y" : 28,
-      "1" : "3-1.png",
-      "2" : "3-2.png",
-      "3" : "3-3.png",
-      "4" : "3-4.png",
-      "5" : "3-5.png",
+      "Yes, but only in unfamiliar situations (ex driving in areas I don't know well)" : "question-3-sometimes.png",
+      "Yes, I need it on me at all times" : "question-3-always.png",
+      "No" : "all-questions-no",
       "is_text" : false
     },
-    "I can't think unless I have breakfast.": {
+    "How long would you be able to go without your phone?": {
       "x" : 132,
       "y" : 72,
-      "TRUE" : "4-true.png",
-      "FALSE" : "4-false.png",
+      "One week" : "question-4-week.png",
+      "2-3 days" : "question-4-3-days.png",
+      "6-12 hours" : "question-4-6-hours.png",
+      "1 day" : "question-4-1-day.png",
       "is_text" : false
     },
-    "An ideal breakfast would include:": {
+    "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": {
       "x" : 32,
       "y" : 370,
+      "1-2 hours" : "question-5-2-hours.png",
+      "3-4 horus" : "question-5-3-hours.png",
+      "5+ hours" : "question-5-5-hours.png",
+      "is_text" : false
+    },
+    "Does having social media on your phone influence the way you live?": {
+      "x" : 32,
+      "y" : 370,
+      "I’ve noticed significant changes" : "question-6-significantly.png",
+      "I use social media, but it does not influence me" : "question-6-none.png",
+      "I’ve noticed minor changes" : "question-6-slightly.png",
       "is_text" : true
     }
   },
 "data" : [
   {
-    "Do you  eat breakfast?": "always",
-    "I can't think unless I have breakfast.": "TRUE",
-    "What is your first beverage of the day?": "water",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 4,
-    "An ideal breakfast would include:": "egg and cheese"
+    "Do you only use your phone for BASIC functions? (This includes calling, texting, email, taking pictures and using a map)": "No, I also have apps and social media",
+    "Do you use your phone right before you sleep? If yes, does it affect how long it takes for you to fall asleep?": "Yes and it does not affect how long it takes for me to fall asleep",
+    "Do you feel anxious without your phone?": "Yes, but only in unfamiliar situations (ex driving in areas I don't know well)",
+    "How long would you be able to go without your phone?": "One week",
+    "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": "5+ hours",
+    "Does having social media on your phone influence the way you live?": "I’ve noticed significant changes",
+  
   },
   {
-    "Do you  eat breakfast?": "never",
-    "I can't think unless I have breakfast.": "FALSE",
-    "What is your first beverage of the day?": "coffee",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 3,
-    "An ideal breakfast would include:": "a bloody mary"
+    "Do you only use your phone for BASIC functions? (This includes calling, texting, email, taking pictures and using a map)": "No, I also have apps and social media",
+    "Do you use your phone right before you sleep? If yes, does it affect how long it takes for you to fall asleep?": "Yes and it does not affect how long it takes for me to fall asleep",
+    "Do you feel anxious without your phone?": "Yes, but only in unfamiliar situations (ex driving in areas I don't know well)",
+    "How long would you be able to go without your phone?": "1 day",
+    "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": "1-2 hours",
+    "Does having social media on your phone influence the way you live?": "I’ve noticed minor changes",
+  
   },
   {
-    "Do you  eat breakfast?": "always",
-    "I can't think unless I have breakfast.": "TRUE",
-    "What is your first beverage of the day?": "water",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 3,
-    "An ideal breakfast would include:": "Pancakes and strawberry compote"
+      "Do you only use your phone for BASIC functions? (This includes calling, texting, email, taking pictures and using a map)": "No, I also have apps and social media",
+    "Do you use your phone right before you sleep? If yes, does it affect how long it takes for you to fall asleep?": "Yes and it affects how long it takes for me to fall asleep",
+    "Do you feel anxious without your phone?": "Yes, but only in unfamiliar situations (ex driving in areas I don't know well)",
+    "How long would you be able to go without your phone?": "1 day",
+    "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": "1-2 hours",
+    "Does having social media on your phone influence the way you live?": "I use social media, but it does not influence me",
+  
   },
   {
-    "Do you  eat breakfast?": "always",
-    "I can't think unless I have breakfast.": "TRUE",
-    "What is your first beverage of the day?": "coffee",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 5,
-    "An ideal breakfast would include:": "coffee, yogurt, fruit, granola"
+    "Do you only use your phone for BASIC functions? (This includes calling, texting, email, taking pictures and using a map)": "No, I also have apps and social media",
+    "Do you use your phone right before you sleep? If yes, does it affect how long it takes for you to fall asleep?": "Yes and it does not affect how long it takes for me to fall asleep",
+    "Do you feel anxious without your phone?": "Yes, I need it on me at all times",
+    "How long would you be able to go without your phone?": "6-12 hours",
+    "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": "1-2 hours",
+    "Does having social media on your phone influence the way you live?": "I’ve noticed minor changes",
+  
   },
   {
-    "Do you  eat breakfast?": "hardly ever",
-    "I can't think unless I have breakfast.": "FALSE",
-    "What is your first beverage of the day?": "juice",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 2,
-    "An ideal breakfast would include:": "Tequila and takis"
+    "Do you only use your phone for BASIC functions? (This includes calling, texting, email, taking pictures and using a map)": "Yes",
+    "Do you use your phone right before you sleep? If yes, does it affect how long it takes for you to fall asleep?": "Yes and it affects how long it takes for me to fall asleep",
+    "Do you feel anxious without your phone?": "Yes, but only in unfamiliar situations (ex driving in areas I don't know well)",
+    "How long would you be able to go without your phone?": "One week",
+    "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": "3-4 horus",
+    "Does having social media on your phone influence the way you live?": "I use social media, but it does not influence me",
+  
+  },
+  {
+    "Do you only use your phone for BASIC functions? (This includes calling, texting, email, taking pictures and using a map)": "Yes",
+    "Do you use your phone right before you sleep? If yes, does it affect how long it takes for you to fall asleep?": "Yes and it does not affect how long it takes for me to fall asleep",
+    "Do you feel anxious without your phone?": "No",
+    "How long would you be able to go without your phone?": "2-3 days",
+    "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": "3-4 horus",
+    "Does having social media on your phone influence the way you live?": "I’ve noticed significant changes",
+  }
+]
   }
 ]
 }
