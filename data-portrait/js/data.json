@@ -9,23 +9,23 @@
       "is_text" : false
     },
     "Do you use your phone right before you sleep? If yes, does it affect how long it takes for you to fall asleep?": {
-      "x" : 30,
-      "y" : 60,
+      "x" : 0,
+      "y" : 0,
       "Yes and it affects how long it takes for me to fall asleep" : "sleep-affected.png",
-      "Yes and it does not affect how long it takes for me to fall asleep" : "sleep-not-affected",
+      "Yes and it does not affect how long it takes for me to fall asleep" : "sleep-not-affected.png",
       "is_text" : false
     },
     "Do you feel anxious without your phone?": {
-      "x" : 263,
-      "y" : 28,
+      "x" : 0,
+      "y" : 0,
       "Yes, but only in unfamiliar situations (ex driving in areas I don't know well)" : "question-3-sometimes.png",
       "Yes, I need it on me at all times" : "question-3-always.png",
-      "No" : "all-questions-no",
+      "No" : "all-questions-no.png",
       "is_text" : false
     },
     "How long would you be able to go without your phone?": {
-      "x" : 132,
-      "y" : 72,
+      "x" : 0,
+      "y" : 0,
       "One week" : "question-4-week.png",
       "2-3 days" : "question-4-3-days.png",
       "6-12 hours" : "question-4-6-hours.png",
@@ -33,16 +33,16 @@
       "is_text" : false
     },
     "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": {
-      "x" : 32,
-      "y" : 370,
+      "x" : 0,
+      "y" : 0,
       "1-2 hours" : "question-5-2-hours.png",
       "3-4 horus" : "question-5-3-hours.png",
       "5+ hours" : "question-5-5-hours.png",
       "is_text" : false
     },
     "Does having social media on your phone influence the way you live?": {
-      "x" : 32,
-      "y" : 370,
+      "x" : 0,
+      "y" : 0,
       "I’ve noticed significant changes" : "question-6-significantly.png",
       "I use social media, but it does not influence me" : "question-6-none.png",
       "I’ve noticed minor changes" : "question-6-slightly.png",
@@ -56,7 +56,7 @@
     "Do you feel anxious without your phone?": "Yes, but only in unfamiliar situations (ex driving in areas I don't know well)",
     "How long would you be able to go without your phone?": "One week",
     "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": "5+ hours",
-    "Does having social media on your phone influence the way you live?": "I’ve noticed significant changes",
+    "Does having social media on your phone influence the way you live?": "I’ve noticed significant changes"
   
   },
   {
@@ -65,7 +65,7 @@
     "Do you feel anxious without your phone?": "Yes, but only in unfamiliar situations (ex driving in areas I don't know well)",
     "How long would you be able to go without your phone?": "1 day",
     "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": "1-2 hours",
-    "Does having social media on your phone influence the way you live?": "I’ve noticed minor changes",
+    "Does having social media on your phone influence the way you live?": "I’ve noticed minor changes"
   
   },
   {
@@ -74,7 +74,7 @@
     "Do you feel anxious without your phone?": "Yes, but only in unfamiliar situations (ex driving in areas I don't know well)",
     "How long would you be able to go without your phone?": "1 day",
     "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": "1-2 hours",
-    "Does having social media on your phone influence the way you live?": "I use social media, but it does not influence me",
+    "Does having social media on your phone influence the way you live?": "I use social media, but it does not influence me"
   
   },
   {
@@ -83,7 +83,7 @@
     "Do you feel anxious without your phone?": "Yes, I need it on me at all times",
     "How long would you be able to go without your phone?": "6-12 hours",
     "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": "1-2 hours",
-    "Does having social media on your phone influence the way you live?": "I’ve noticed minor changes",
+    "Does having social media on your phone influence the way you live?": "I’ve noticed minor changes"
   
   },
   {
@@ -92,7 +92,7 @@
     "Do you feel anxious without your phone?": "Yes, but only in unfamiliar situations (ex driving in areas I don't know well)",
     "How long would you be able to go without your phone?": "One week",
     "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": "3-4 horus",
-    "Does having social media on your phone influence the way you live?": "I use social media, but it does not influence me",
+    "Does having social media on your phone influence the way you live?": "I use social media, but it does not influence me"
   
   },
   {
@@ -101,9 +101,7 @@
     "Do you feel anxious without your phone?": "No",
     "How long would you be able to go without your phone?": "2-3 days",
     "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": "3-4 horus",
-    "Does having social media on your phone influence the way you live?": "I’ve noticed significant changes",
-  }
-]
+    "Does having social media on your phone influence the way you live?": "I’ve noticed significant changes"
   }
 ]
 }
