@@ -6,19 +6,22 @@
       "y" : 0,
       "No, I also have apps and social media" : "question-1-no-.png",
       "Yes" : "all-questions-no.png",
+      "is_text" : false
     },
     "Do you use your phone right before you sleep? If yes, does it affect how long it takes for you to fall asleep?": {
       "x" : 30,
       "y" : 60,
       "Yes and it affects how long it takes for me to fall asleep" : "sleep-affected.png",
       "Yes and it does not affect how long it takes for me to fall asleep" : "sleep-not-affected",
+      "is_text" : false
     },
     "Do you feel anxious without your phone?": {
       "x" : 263,
       "y" : 28,
       "Yes, but only in unfamiliar situations (ex driving in areas I don't know well)" : "question-3-sometimes.png",
       "Yes, I need it on me at all times" : "question-3-always.png",
-      "No" : "all-questions-no.png",
+      "No" : "all-questions-no",
+      "is_text" : false
     },
     "How long would you be able to go without your phone?": {
       "x" : 132,
@@ -27,6 +30,7 @@
       "2-3 days" : "question-4-3-days.png",
       "6-12 hours" : "question-4-6-hours.png",
       "1 day" : "question-4-1-day.png",
+      "is_text" : false
     },
     "How much time do you spend on social media every day? (Including Snapchat, TikTok, Twitter, Facebook...)": {
       "x" : 32,
@@ -34,6 +38,7 @@
       "1-2 hours" : "question-5-2-hours.png",
       "3-4 horus" : "question-5-3-hours.png",
       "5+ hours" : "question-5-5-hours.png",
+      "is_text" : false
     },
     "Does having social media on your phone influence the way you live?": {
       "x" : 32,
@@ -41,6 +46,7 @@
       "I’ve noticed significant changes" : "question-6-significantly.png",
       "I use social media, but it does not influence me" : "question-6-none.png",
       "I’ve noticed minor changes" : "question-6-slightly.png",
+      "is_text" : false
     }
   },
 "data" : [
